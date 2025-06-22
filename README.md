@@ -5,6 +5,7 @@
 🧠 The deployed app uses facenet-pytorch for real-time face verification. This repository also contains a custom-trained Siamese network for educational and comparison purposes.
 
 ❌ Why the Custom Siamese Network Doesn’t Work Well for Live Verification
+
 🔹 Limited Training Data
 Small models trained on limited or synthetic datasets fail to generalize well to real-world conditions.
 
