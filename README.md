@@ -6,16 +6,16 @@
 
 ❌ Why the Custom Siamese Network Doesn’t Work Well for Live Verification
 
+It struggles with:
+
 🔹 Limited Training Data
 Small models trained on limited or synthetic datasets fail to generalize well to real-world conditions.
 
 🔹 Not Robust to Real-World Variations
 
-It struggles with:
+🔹 Different lighting conditions
 
-Different lighting conditions
-
-Face angles and expressions
+🔹 Face angles and expressions
 
 Webcam noise and blur
 
