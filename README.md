@@ -10,6 +10,7 @@
 Small models trained on limited or synthetic datasets fail to generalize well to real-world conditions.
 
 🔹 Not Robust to Real-World Variations
+
 It struggles with:
 
 Different lighting conditions
