@@ -17,7 +17,7 @@ Small models trained on limited or synthetic datasets fail to generalize well to
 
 🔹 Face angles and expressions
 
-Webcam noise and blur
+🔹 Webcam noise and blur
 
 🔹 Shallow Architecture
 The model has fewer layers and lacks high-level feature extraction capacity, which is essential for recognizing subtle facial differences.
